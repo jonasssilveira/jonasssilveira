@@ -23,7 +23,9 @@
   
   ##
  <div>
-   <img align="center" alt="Jonas-codeWars" src="https://www.codewars.com/users/JonaSilveira/badges/large">
+   <a href ="https://www.codewars.com/users/JonaSilveira" target="_blank">
+    <img align="center" alt="Jonas-codeWars" src="https://www.codewars.com/users/JonaSilveira/badges/large">
+   </a>
  </div>
   
   ##
