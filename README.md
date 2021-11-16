@@ -1,6 +1,8 @@
 ### Olá me Chamo Jonas Silveira 
   - 🔭 Atualmente trabalhando com Java 
-  - 🌱 Atualmente estou aprendendo Arquitetura de sistemas e angular
+  - 🌱 Atualmente estou aprendendo Arquitetura de software e go
+  - 👨‍🔬 Iniciante em linux 
+  - 👾 Invadindo o mundo devops
 <div>
   <a href="https://github.com/jonasssilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasssilveira&count_private=true&show_icons=true&theme=darcula&title_color=fffff"/>
@@ -13,6 +15,9 @@
   <img align="center" alt="Jonas-ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Jonas-ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jonas-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Jonas-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Jonas-go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
 </div>
 
   ##
