@@ -1,4 +1,4 @@
-### Olá me Chamo Jonas Silveira 
+### Hello My name is Jonas Silveira
 <div>
   <a href="https://github.com/jonasssilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasssilveira&count_private=true&show_icons=true&theme=darcula&title_color=fffff"/>
