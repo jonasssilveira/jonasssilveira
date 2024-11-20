@@ -1,8 +1,4 @@
 ### Olá me Chamo Jonas Silveira 
-  - 🔭 Atualmente trabalhando com Java 
-  - 🌱 Atualmente estou aprendendo Arquitetura de software e go
-  - 👨‍🔬 Iniciante em linux 
-  - 👾 Invadindo o mundo devops
 <div>
   <a href="https://github.com/jonasssilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasssilveira&count_private=true&show_icons=true&theme=darcula&title_color=fffff"/>
